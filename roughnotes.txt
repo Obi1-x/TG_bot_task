@@ -1,0 +1,4 @@
+Name: memePlug
+UN: memePlugg_bot
+Link: http://t.me/memePlugg_bot
+HTTP API: 5706281913:AAEmHlQFStq4C1vsq5vz8IzuuEg58vnQY3Y
